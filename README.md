@@ -69,8 +69,32 @@ colorscheme tokyodark
 
 ### Ports & Extras
 
-- [Vivaldi](https://themes.vivaldi.net/themes/RqZvdka2l9o)
--
+#### Terminals
+- [⬇️iTerm2](extra/terminals/iTerm2/tokyodark.itermcolors)
+- [⬇️alacritty](extra/terminals/alacritty/tokyodark.yml)
+- [⬇️kitty](extra/terminals/kitty/tokyodark.conf)
+- [⬇️konsole](extra/terminals/konsole/tokyodark.colorscheme)
+- [⬇️wezterm](extra/terminals/wezterm/tokyodark.toml)
+#### Web
+- [⬇️HTML](extras/web/tokyodark.html)
+- [⬇️CSS](extras/web/tokyodark.css)
+- [⬇️SCSS](extras/web/tokyodark.scss)
+- [⬇️SASS](extras/web/tokyodark.sass)
+- [⬇️LESS](extras/web/tokyodark.less)
+#### Editors
+- [⬇️DOOM Emacs](extras/doom_emacs/doom-tokyodark-theme.el)
+- [⬇️Sublime Text](extras/tokyodark.tmTheme)
+- [⬇️Xcode SwiftUI Colors](extras/xcode/tokyodark.swift)
+- [⬇️Xcode Swift NSColor](extras/xcode/tokyodark.nscolor.swift)
+#### Misc
+- [⬇️Vivaldi](extras/web/tokyodark.css) [2](https://themes.vivaldi.net/themes/RqZvdka2l9o)
+- [⬇️Alfred](extras/misc/tokyodark.alfredappearance)
+- [⬇️vivid](extras/tokyodark.tmTheme)
+- [⬇️Plain Text](extras/misc/tokyodark.txt)
+#### Swatches 
+- [⬇️PNG](extras/misc/tokyodark.png) 
+- [⬇️PDF](extras/misc/tokyodark.png) 
+- [⬇️JSON](extras/misc/tokyodark.png)
 
 ### Color Palette
 

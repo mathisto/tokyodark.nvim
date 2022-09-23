@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#F7758EFF",
+        "font" : "System",
+        "color" : "#5A6491FF"
+      },
+      "shortcut" : {
+        "size" : 18,
+        "colorSelected" : "#F7758EFF",
+        "font" : "System",
+        "color" : "#C0C9F4FF"
+      },
+      "backgroundSelected" : "#414868FF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#F7758EFF",
+        "font" : "System",
+        "color" : "#6570A1FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 0,
+      "paddingVertical" : 2,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#414868AC",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#F7758EFF",
+        "font" : "System Light",
+        "color" : "#C0C9F4FF"
+      },
+      "background" : "#24283AFF",
+      "roundness" : 0,
+      "paddingVertical" : 7
+    },
+    "window" : {
+      "color" : "#24283AFF",
+      "paddingHorizontal" : 4,
+      "width" : 600,
+      "borderPadding" : 4,
+      "borderColor" : "#F7758EFF",
+      "blur" : 0,
+      "roundness" : 8,
+      "paddingVertical" : 1
+    },
+    "credit" : "mathisto",
+    "separator" : {
+      "color" : "#565E89FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#F7758EFF",
+      "thickness" : 2
+    },
+    "name" : "Tokyo Night: CE"
+  }
+}

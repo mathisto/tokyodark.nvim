@@ -1,0 +1,57 @@
+{
+    "name": "tokyodark",
+    "colors": [
+        {
+            "name": "Alizarin Crimson",
+            "hex": "#dd2f45"
+        },
+        {
+            "name": "Cranberry",
+            "hex": "#dd657d"
+        },
+        {
+            "name": "Sandy brown",
+            "hex": "#f2945a"
+        },
+        {
+            "name": "Di Serria",
+            "hex": "#d7a65f"
+        },
+        {
+            "name": "Mantis",
+            "hex": "#90c05e"
+        },
+        {
+            "name": "Astral",
+            "hex": "#3572a5"
+        },
+        {
+            "name": "Wild Blue Yonder",
+            "hex": "#8193b4"
+        },
+        {
+            "name": "Fuchsia Blue",
+            "hex": "#6946bf"
+        },
+        {
+            "name": "Lilac Bush",
+            "hex": "#a081d8"
+        },
+        {
+            "name": "Vulcan",
+            "hex": "#11121d"
+        },
+        {
+            "name": "Mirage",
+            "hex": "#1a1b2a"
+        },
+        {
+            "name": "Mako",
+            "hex": "#464b53"
+        },
+        {
+            "name": "Rolling Stone",
+            "hex": "#6d8086"
+        },
+    ]
+}

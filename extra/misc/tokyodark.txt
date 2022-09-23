@@ -1,0 +1,54 @@
+# tokyodark
+Generated with ColorSlurp
+
+*Alizarin Crimson*
+HEX: #dd2f45
+RGB: 221, 47, 69, 100
+
+*Cranberry*
+HEX: #dd657d
+RGB: 221, 101, 125, 100
+
+*Sandy brown*
+HEX: #f2945a
+RGB: 242, 148, 90, 100
+
+*Di Serria*
+HEX: #d7a65f
+RGB: 215, 166, 95, 100
+
+*Mantis*
+HEX: #90c05e
+RGB: 144, 192, 94, 100
+
+*Astral*
+HEX: #3572a5
+RGB: 53, 114, 165, 100
+
+*Wild Blue Yonder*
+HEX: #8193b4
+RGB: 129, 147, 180, 100
+
+*Fuchsia Blue*
+HEX: #6946bf
+RGB: 105, 70, 191, 100
+
+*Lilac Bush*
+HEX: #a081d8
+RGB: 160, 129, 216, 100
+
+*Vulcan*
+HEX: #11121d
+RGB: 17, 18, 29, 100
+
+*Mirage*
+HEX: #1a1b2a
+RGB: 26, 27, 42, 100
+
+*Mako*
+HEX: #464b53
+RGB: 70, 75, 83, 100
+
+*Rolling Stone*
+HEX: #6d8086
+RGB: 109, 128, 134, 100
