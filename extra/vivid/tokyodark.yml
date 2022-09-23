@@ -1,0 +1,134 @@
+colors:
+  # "tokyodark" port for vivid
+  # Based on "tokyodark.nvim" by
+  # https://github.com/tiagovla/tokyodark.nvim
+  # Which in turn is based on "Tokyo Night" by Enkia
+  # https://github.com/enkia/tokyo-night-vscode-theme
+  # Modified from "snazzy" theme by sindresorhus
+  # https://github.com/sindresorhus/hyper-snazzy
+  background_color: '11121d'
+  white: 'a0a8cd'
+  red: 'ee6d85'
+  green: '485e30'
+  yellow: 'f2945a'
+  blue: '2ac3de'
+  pink: '6946bf'
+  cyan: '73daca'
+
+  rose: '8c4351'
+
+  light_red: 'f7768e'
+  light_green: '95c661'
+  light_yellow: 'd7a65f'
+  light_blue: '0f4b6e'
+  light_pink: 'a081d8'
+  light_cyan: '166775'
+
+  black: '06080a'
+  gray: '6d8086'
+  darkgray: '212234'
+  darkergray: '11121d'
+
+core:
+  normal_text: {}
+  regular_file: {}
+  reset_to_normal: {}
+
+  directory:
+    foreground: blue
+
+  symlink:
+    foreground: pink
+
+  multi_hard_link: {}
+
+  fifo:
+    foreground: black
+    background: blue
+
+  socket:
+    foreground: black
+    background: pink
+
+  door:
+    foreground: black
+    background: pink
+
+  block_device:
+    foreground: cyan
+    background: darkergray
+
+  character_device:
+    foreground: pink
+    background: darkergray
+
+  broken_symlink:
+    foreground: black
+    background: red
+
+  missing_symlink_target:
+    foreground: black
+    background: red
+
+  setuid: {}
+
+  setgid: {}
+
+  file_with_capability: {}
+
+  sticky_other_writable: {}
+
+  other_writable: {}
+
+  sticky: {}
+
+  executable_file:
+    foreground: red
+    font-style: bold
+
+text:
+  special:
+    foreground: background_color
+    background: yellow
+
+  todo:
+    font-style: bold
+
+  licenses:
+    foreground: gray
+
+  configuration:
+    foreground: yellow
+
+  other:
+    foreground: yellow
+
+markup:
+  foreground: yellow
+
+programming:
+  source:
+    foreground: green
+
+  tooling:
+    foreground: light_green
+
+    continuous-integration:
+      foreground: green
+
+media:
+  foreground: light_pink
+
+office:
+  foreground: red
+
+archives:
+  foreground: cyan
+  font-style: underline
+
+executable:
+  foreground: red
+  font-style: bold
+
+unimportant:
+  foreground: darkgray
