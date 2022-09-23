@@ -10,14 +10,14 @@ colors:
     white: '#a0a8cd'
     yellow: '#d7a65f'
   cursor:
-    cursor: '#a0a8cd'
+    cursor: '#38a89d'
     text: '#11121d'
   normal:
     black: '#06080a'
-    blue: '#7199ee'
-    cyan: '#38a89d'
+    blue: '#3d59a1'
+    cyan: '#73daca'
     green: '#95c561'
-    magenta: '#a485dd'
+    magenta: '#6946bf'
     red: '#ee6d85'
     white: '#a0a8cd'
     yellow: '#d7a65f'
@@ -25,5 +25,5 @@ colors:
     background: '#11121d'
     foreground: '#a0a8cd'
   selection:
-    background: '#11121d'
-    text: '#a0a8cd'
+    background: '#ee6d85'
+    text: '#11121d'
